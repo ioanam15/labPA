@@ -4,6 +4,7 @@
 int function(int x){
 	///x=x-2;
 	///x=function(x);
+	//modificare
 	if (x>=2)
 	{
 	    x=x-2;
